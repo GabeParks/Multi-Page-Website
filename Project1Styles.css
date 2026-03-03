@@ -1,11 +1,11 @@
-root: {
-    line-height: 2.0
-    word-spacing: 6px
-    text-indent: 30px
-    background-color: blue
-    text-color: yellow
-    border: 4px black 
-    max: 60%
+:root {
+   line-height: 2.0;
+    word-spacing: 6px;
+    text-indent: 30px;
+    background-color: blue;
+    color: yellow;
+    border: 4px solid black;
+    max-width: 60%;
 }
 
 body {
